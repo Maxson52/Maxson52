@@ -7,6 +7,10 @@
 - 🌐 I am currently working on a Chrome New Tab Extension
 - 🏙 ️I also create 3D scenes and animations
 - 💡 I design logos, banners, UI and more
+- 🌟 2020 Goals: To share more of my design work with others and receive feedback
+- ⚡ Fun Fact: The first full program I ever made was coded in BASIC
+
+<br />
 
 ## Languages and Tools:
 
