@@ -4,11 +4,11 @@
 
 ## I'm a Front-End Web Dev, Designer & CG Specialist!
 
-- 🌐 I am currently working on a Chrome New Tab Extension
+- 🌐 I am currently working on a Chrome Extensions
 - 🏙 ️I also create 3D scenes and animations
 - 💡 I design logos, banners, UI and more
-- 🌟 2020 Goals: To share more of my design work with others and receive feedback
-- ⚡ Fun Fact: The first full program I ever made was coded in BASIC
+- 🌟 2021 Goals: To share more of my design work with others and receive feedback
+- ⚡ Fun Fact: The first program I ever made was coded in BASIC
 
 ## Languages and Tools:
 
