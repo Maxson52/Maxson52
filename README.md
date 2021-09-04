@@ -18,4 +18,4 @@
 <img align="left" alt="Svelte" width="26px" src="https://pbs.twimg.com/profile_images/1121395911849062400/7exmJEg4.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Supabase" width="26px" src="https://user-images.githubusercontent.com/42156015/121821566-cdb7ba80-cc67-11eb-9980-0b2e0763e31f.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
