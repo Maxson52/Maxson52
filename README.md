@@ -13,7 +13,7 @@ I care about understanding how things actually work, not just stitching tools to
 
 ### ⚙️ Systems / Embedded
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white)
 
 ### 🧰 Additional Tools
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logoColor=white)
@@ -23,4 +23,4 @@ I care about understanding how things actually work, not just stitching tools to
 
 ---
 
-I’m interested in building systems that operate under real constraints, not idealistic aritificially generated ones. This means carefully considering engineering tradaeoffs in places where performance, reliability, and design matter.
+I’m interested in building systems that operate under real constraints, not idealistic artificially generated ones. This means carefully considering engineering tradeoffs in places where performance, reliability, and design matter.
